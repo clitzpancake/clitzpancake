@@ -1,63 +1,79 @@
 <div align="center">
 
-# 𝑪𝒍𝒊𝒕𝒛𝑷𝒂𝒏𝒄𝒂𝒌𝒆
+<!-- BANNER -->
 
-`18+ stuff • code • experiments`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=FF4FA3&center=true&vCenter=true&width=600&lines=probably+shouldn't+be+building+this;just+let+me+code;18%2B+%2B+random+shit;it+works+on+my+machine" />
+<img src="./assets/banner.jpg" width="100%" />
 
 <br>
 
-[![18+](https://img.shields.io/badge/18%2B-ff006e?style=flat-square)](#)
-[![GitHub](https://img.shields.io/badge/github-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/clitzpancake)
+<!-- NAME -->
+
+# 𝑪𝒍𝒊𝒕𝒛𝑷𝒂𝒏𝒄𝒂𝒌𝒆
+
+### `18+ • code • anime • experiments`
+
+<br>
+
+<!-- TYPING -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=FF4FA3&center=true&vCenter=true&width=700&lines=just+let+me+code;building+weird+shit;18%2B+%2B+random+projects;probably+a+bad+idea;it+works+on+my+machine" />
+
+<br><br>
+
+<!-- BADGES -->
+
+[![18+](https://img.shields.io/badge/18%2B-FF006E?style=for-the-badge&labelColor=12000F)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/clitzpancake)
+[![Profile Views](https://komarev.com/ghpvc/?username=clitzpancake&style=for-the-badge&color=FF006E&label=VIEWS)](https://github.com/clitzpancake)
 
 </div>
 
 ---
 
-## 𝒉𝒊
+# 𝒉𝒊 🖤
 
 yo.
 
 welcome to my little corner of github.
 
-i make stuff.
+i code random shit that i think is interesting.
 
-sometimes useful.  
-sometimes weird.  
-sometimes both.
+sometimes it's actually useful.
 
-mostly just coding whatever i feel like making.
+sometimes it's completely unnecessary.
 
----
+sometimes it somehow turns into a real project.
 
-## 𝒘𝒉𝒂𝒕 𝒊 𝒖𝒔𝒆
-
+𝒎𝒚 𝒔𝒕𝒂𝒄𝒌
 <div align="center">
+ 𝑷𝒚𝒕𝒉𝒐𝒏
+<img src="https://skillicons.dev/icons?i=python" width="75">
 
-<img src="https://skillicons.dev/icons?i=python,cs,javascript,nodejs,html,css,git,github,vscode,linux" />
+bots · automation · APIs · scripts · utilities
 
 <br><br>
 
- **Python**  
-bots / scripts / automation / random stuff
+ 𝑪#
+<img src="https://skillicons.dev/icons?i=cs" width="75">
 
- **C#**  
-desktop apps / tools / experiments
+desktop apps · tools · backend · experiments
 
- **JavaScript**  
-websites / bots / APIs / whatever needs a browser
+<br><br>
+
+ 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕
+<img src="https://skillicons.dev/icons?i=javascript" width="75">
+
+web · Node.js · Discord · APIs
 
 </div>
 
----
+𝒕𝒐𝒐𝒍𝒃𝒐𝒙
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,cs,javascript,nodejs,html,css,git,github,vscode,linux,discord" />
 
-## 𝒘𝒉𝒂𝒕'𝒔 𝒉𝒆𝒓𝒆
+<br><br>
 
-```text
-🔞 adult projects
-🤖 discord bots
-🌐 web stuff
-🧪 experiments
-🔐 private tools
-💀 questionable ideas
+Python · C# · JavaScript · Node.js · HTML · CSS
+
+Git · GitHub · VS Code · Linux · Discord
+
+</div>
